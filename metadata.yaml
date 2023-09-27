@@ -1,0 +1,32 @@
+_repo: The-art-and-mystery-of-curing-preserving-and-potting-all-kinds-of-meats-game-and-fish_71687
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Anonymous
+    aliases:
+    - Anonyme
+    - Anonymous, Anonymous
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Anonymous_work
+    - http://www.gutenberg.org/ebooks/author/49
+description: ''
+gutenberg_issued: '2023-09-19'
+identifiers:
+  gutenberg: '71687'
+language: en
+pgterms:marc905: 20221129182748author
+pgterms:marc906: '1864'
+pgterms:marc907: GB
+production_note: Carol Brown and The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aLondon :$bChapman and Hall, $c1864.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The art and mystery of curing, preserving, and potting all kinds of meats,
+  game, and fish
+url: http://www.gutenberg.org/ebooks/71687
